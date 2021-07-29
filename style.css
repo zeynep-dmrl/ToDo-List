@@ -127,8 +127,8 @@ ul li:hover span{
     margin-top: 20px;
     font-size: 16px;
     text-align: center;
-    border-radius: 3px;
-    padding: 5px;
+    border-radius: 14px;
+    padding: 8px;
     opacity: 0.6;
     pointer-events: none;
 }
