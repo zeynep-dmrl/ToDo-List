@@ -1,0 +1,18 @@
+.container{
+   margin-top: 50px;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-color: #f3e5f5 !important;
+
+}
